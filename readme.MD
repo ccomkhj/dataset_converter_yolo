@@ -11,6 +11,8 @@
 7. [FLAG - extreme lighting] - 0,1
 8. [annotated qrcode bitmap name] - string (without the extension .png - has to be added when parsing)
 
+[Data Source](http://www.fit.vutbr.cz/research/groups/graph/pclines/pub_page.php?id=2012-SCCG-QRtiles)
+
 ### Output
 Yolo format (class x_center y_center width height)
 
